@@ -1,7 +1,7 @@
 ---
 title: Git Cheat Sheet
 date: 2017-04-18 12:51:08
-categories : git
+categories : git的使用
 ---
 
 ## Git 本地更改操作

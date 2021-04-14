@@ -2,7 +2,7 @@
 title : "软件列表"
 Description : ""
 Tags : ["software", "doc"]
-Categories : ["manual"]
+Categories : ["软件"]
 date : 2018-10-10
 ---
 

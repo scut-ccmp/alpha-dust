@@ -1,7 +1,7 @@
 ---
 title : 天河帐号使用列表
 date : 2018-10-24
-Categories :  info
+Categories :  超算
 Tags :  ["doc", "cluster"]
 Description : ""
 author : "unkcpz, qiusb"

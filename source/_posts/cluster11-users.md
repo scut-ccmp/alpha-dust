@@ -4,7 +4,7 @@ date: 2018-11-07T15:07:34+08:00
 lastmod: 2018-11-07T15:54:13+08:00
 draft: false
 tags: ["cluster", "user", "11", "system"]
-categories: ["manual"]
+categories: ["集群使用手册"]
 author: "qiusb"
 ---
 

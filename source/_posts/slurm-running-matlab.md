@@ -2,7 +2,7 @@
 title: "使用slurm在集群上使用matlab"
 Description: 在集群上使用slurm任务管理系统，分别交互式的和提交任务式的使用matlab
 categories:
-   - manual
+   - 集群使用手册
 date:  2019-04-01
 tags:
   - cluster

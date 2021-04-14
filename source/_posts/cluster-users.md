@@ -3,7 +3,7 @@ title: cmp集群：用户手册
 author: unkcpz / hecc
 date: 2020-08-20
 categories:
-  - manual
+  - 集群使用手册
 tags:
   - cluster
   - system

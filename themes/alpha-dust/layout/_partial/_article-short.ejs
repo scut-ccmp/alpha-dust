@@ -22,4 +22,15 @@
         </div>
     </div>
 
+    <% if(item.excerpt) { %>
+        <div class="content">
+            <%- item.excerpt %>
+        </div>
+        <a href="<%- url_for(item.path) %>" class="read-more">Read More</a>
+    <% } else { %>
+        <div class="content">
+            <%- item.content %>
+        </div>
+    <% } %>
+
 </div>

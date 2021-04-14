@@ -3,7 +3,7 @@ title : "cmp集群管理手册"
 date : 2018-10-26
 Description : ""
 Tags : ["cluster", "admin", "system"]
-Categories : ["manual"]
+Categories : ["集群使用手册"]
 author : "unkcpz, qiusb"
 ---
 

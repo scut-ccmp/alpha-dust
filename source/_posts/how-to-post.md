@@ -1,10 +1,10 @@
 ---
-title : "内容的发布与格式"
-Description : "该说明文档中文章的格式与trick"
-date : 2018-10-15
-author : "unkcpz, hecc"
-Tag : ["site"]
-Categories : ["tutorial"]
+title: "内容的发布与格式"
+description: "该说明文档中文章的格式与trick"
+date: 2018-10-15
+author: "unkcpz, hecc"
+tags: ["site"]
+categories: ["文章发布教程"]
 ---
 
 ## 内容的发布与语法格式

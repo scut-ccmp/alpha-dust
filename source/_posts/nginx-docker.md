@@ -1,10 +1,10 @@
 ---
-title : "Docker Nginx网页服务搭建（附服务器购买续费指南）"
-Description : ""
-Tags : ["nginx", "docker", "server"]
-Categories : ["tutorial"]
-date :  2018-10-12
-author : "unkcpz"
+title: "Docker Nginx网页服务搭建（附服务器购买续费指南）"
+Description: ""
+Tags: ["nginx", "docker", "server"]
+Categories: ["集群使用手册"]
+date:  2018-10-12
+author: "unkcpz"
 ---
 
 ## Docker Nginx 网页服务搭建

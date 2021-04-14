@@ -11,7 +11,7 @@ menu:
   # Contact: /contact.html
 
 # Default post title
-default_post_title: Untitled
+default_post_title: CCMPG
 
 # Archive Date Format
 archive_date_format: MMM YYYY
@@ -23,6 +23,8 @@ comments:
 
 # Google Analytics Tracking ID
 google_analytics:
+use_font_lato: false  # unload google fonts
+
 
 # Social Accounts
 twitter_url: https://twitter.com/?lang=en
