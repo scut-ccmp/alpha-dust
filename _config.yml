@@ -102,7 +102,7 @@ theme: alpha-dust
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
+  type: git
   repository: git@github.com:scut-ccmp/scut-ccmp.github.io.git
   branch: master
 
